@@ -1,0 +1,6 @@
+app/code/community/Ip                         app/code/community/IP
+app/design/adminhtml/default/default/template/swatches    app/design/adminhtml/default/default/template/swatches
+app/design/adminhtml/default/default/layout/swatches.xml   app/design/adminhtml/default/default/layout/swatches.xml
+app/design/frontend/base/default/layout/swatches.xml    app/design/frontend/base/default/layout/swatches.xml
+app/design/frontend/base/default/template/swatches app/design/frontend/base/default/template/swatches
+app/etc/modules/Ip_Swatches.xml app/etc/modules/Ip_Swatches.xml
